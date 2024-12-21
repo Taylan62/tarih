@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarih Blogu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        h1, h2, h3 {
+            color: #444;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tarih Blogu</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Giriş</h2>
+            <p>Tarih, insanlığın geçmişini anlamak ve bugünü şekillendirmek için bir rehberdir. Bu blogda tarihin önemli olaylarını, dönüm noktalarını ve insanlık tarihine yön veren isimleri ele alacağız.</p>
+        </section>
+        <hr>
+        <section>
+            <h2>Tarihten İlginç Bilgiler</h2>
+            <ul>
+                <li><strong>Büyük İskender ve Küçük Dünya:</strong> Büyük İskender, <a href="https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_%C4%B0skender" target="_blank">Büyük İskender</a> M.Ö. 4. yüzyılda dünyanın bilinen büyük bir kısmını fethettiğinde, daha fazla fethedilecek toprak kalmadığı için üzüldüğü söylenir.</li>
+                <li><strong>Orta Çağ'ın Kara Kitabı:</strong> <a href="https://tr.wikipedia.org/wiki/Kara_Veba" target="_blank">Kara Veba</a>, 14. yüzyılda Avrupa'da etkili olmuş ve kıtanın nüfusunun yaklaşık üçte birini yok etmiştir. Bu trajedi, Avrupa tarihini ekonomik ve sosyal açıdan yeniden şekillendirdi.</li>
+                <li><strong>Rönesans ve Bilim Devrimi:</strong> Rönesans dönemi, sanat ve bilimdeki büyük ilerlemelerle Avrupa'yı modern çağa taşıdı. Leonardo da Vinci gibi isimler <a href="https://tr.wikipedia.org/wiki/R%C3%B6nesans" target="_blank">Rönesans</a>'a damgasını vurmuştur.</li>
+            </ul>
+        </section>
+        <hr>
+        <section>
+            <h2>Türk Tarihinden Önemli Dönemler</h2>
+            <ul>
+                <li><strong>Göktürk Yazıtları:</strong> Türklerin bilinen ilk yazılı eserleri olan <a href="https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_Yaz%C4%B1tlar%C4%B1" target="_blank">Göktürk Yazıtları</a>, 8. yüzyılda Türk dili ve kültürü hakkında değerli bilgiler sunar.</li>
+                <li><strong>Osmanlı İmparatorluğu'nun Yükselişi:</strong> 1299'da Osmanlı Beyliği olarak kurulan imparatorluk, <a href="https://tr.wikipedia.org/wiki/%C4%B0stanbul%27un_fethi" target="_blank">1453'te İstanbul'un fethi</a>yle bir dünya gücü hâline geldi.</li>
+                <li><strong>Cumhuriyetin İlanı:</strong> Mustafa Kemal Atatürk önderliğinde 1923'te kurulan <a href="https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti" target="_blank">Türkiye Cumhuriyeti</a>, modernleşme ve kalkınma yolunda önemli adımlar attı.</li>
+            </ul>
+        </section>
+        <hr>
+        <section>
+            <h2>Tavsiye Edilen Kaynaklar</h2>
+            <ul>
+                <li><a href="https://www.kitapyurdu.com/kitap/osmanli-imparatorlugu-klasik-cag/13638.html" target="_blank">Halil İnalcık - "Osmanlı İmparatorluğu: Klasik Çağ"</a></li>
+                <li><a href="https://www.kitapyurdu.com/kitap/sapiens-insan-turunun-kisa-bir-tarihi/362724.html" target="_blank">Yuval Noah Harari - "Sapiens: İnsan Türünün Kısa Bir Tarihi"</a></li>
+                <li><a href="https://www.kitapyurdu.com/kitap/tarihimiz-ve-biz/461709.html" target="_blank">İlber Ortaylı - "Tarihimiz ve Biz"</a></li>
+            </ul>
+        </section>
+        <hr>
+        <section>
+            <h2>Sonuç</h2>
+            <p>Tarih, yalnızca geçmişin tozlu sayfalarında kalan bir bilgi birikimi değildir. Aynı zamanda bugünü anlamak ve geleceği şekillendirmek için önemli bir araçtır. Geçmişimizi öğrenmek, bireysel ve toplumsal bilincimizi güçlendirmek için bir fırsattır.</p>
+            <p>Okumaya devam edin ve tarihten ilham alın!</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Tarih Blogu. Tüm Hakları Saklıdır.</p>
+    </footer>
+</body>
+</html>
